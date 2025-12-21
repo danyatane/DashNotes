@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="dark_grey">#919191</color>
+    <color name="grey">#E6E6E6</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="my_primary">#9C27B0</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">DashNotes</string>
+    <string name="conf_pass">Повторите пароль</string>
+    <string name="create">Создать</string>
+    <string name="create_acc">Создать аккаунт</string>
+    <string name="create_error">Ошибка при создании заметки!</string>
+    <string name="create_success">Заметка создана!</string>
+    <string name="date">Дата</string>
+    <string name="del">Удалить</string>
+    <string name="del_error">Ошибка при удалении заметки!</string>
+    <string name="del_success">Заметка удалена!</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="edit">Редактирование</string>
+    <string name="email">Email</string>
+    <string name="exit">Выйти</string>
+    <string name="gcm_defaultSenderId" translatable="false">709946062769</string>
+    <string name="google_api_key" translatable="false">AIzaSyALL1Fjy9yRX4bQqTbuWwpbJyRrCbTNCOw</string>
+    <string name="google_app_id" translatable="false">1:709946062769:android:7fe5132ff070dc97d0af90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALL1Fjy9yRX4bQqTbuWwpbJyRrCbTNCOw</string>
+    <string name="google_storage_bucket" translatable="false">dashnotes-6441a.appspot.com</string>
+    <string name="have_acc">Уже есть аккаунт?</string>
+    <string name="hello">Приветствуем!</string>
+    <string name="hello_text">Приложение для ваших заметок</string>
+    <string name="invalid_confirm_pass">Пароли не совпадают</string>
+    <string name="invalid_email">Некорректный Email</string>
+    <string name="invalid_pass">Длина пароля должна быть не менее 8 символов</string>
+    <string name="login">Войти</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="no_acc">Еще нет аккаунта?</string>
+    <string name="not_confirmed_email">Email не был подтвержден! Проверьте почту</string>
+    <string name="pass">Пароль</string>
+    <string name="project_id" translatable="false">dashnotes-6441a</string>
+    <string name="reg">Регистрация</string>
+    <string name="reg_success">Регистрация пройдена! Ссылка для верификации оправлена на Email</string>
+    <string name="share">Поделиться</string>
+    <string name="text">Текст</string>
+    <string name="title">Заголовок</string>
+    <string name="title_error">Заголовок не может быть пустым</string>
+    <style name="Base.Theme.Lists_app" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/my_primary</item>
+        <item name="colorPrimaryVariant">@color/my_primary</item>
+        <item name="colorPrimaryDark">@color/my_primary</item>
+        <item name="colorAccent">@color/my_primary</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/my_primary</item>
+    </style>
+    <style name="Rounded" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">16dp</item>
+    </style>
+    <style name="Theme.Lists_app" parent="Base.Theme.Lists_app"/>
+</resources>

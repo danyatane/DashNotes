@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DashNotes</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="create">Create</string>
+    <string name="create_acc">Create an account</string>
+    <string name="create_error">An error occurred when creating a note!</string>
+    <string name="create_success">The note has been created!</string>
+    <string name="date">Date</string>
+    <string name="del">Delete</string>
+    <string name="del_error">An error occurred when deleting a note!</string>
+    <string name="del_success">The note has been deleted!</string>
+    <string name="delete_note">Delete note</string>
+    <string name="edit">Edit</string>
+    <string name="email">Email</string>
+    <string name="exit">Exit</string>
+    <string name="have_acc">Already have an account?</string>
+    <string name="hello">Welcome!</string>
+    <string name="hello_text">An application for your notes</string>
+    <string name="invalid_confirm_pass">Passwords don\'t match</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="invalid_pass">The password must be at least 8 characters long</string>
+    <string name="login">Login</string>
+    <string name="my_notes">My notes</string>
+    <string name="new_note">New note</string>
+    <string name="no_acc">Don\'t have an account yet?</string>
+    <string name="not_confirmed_email">The email has not been confirmed! Check your email</string>
+    <string name="pass">Password</string>
+    <string name="reg">Register</string>
+    <string name="reg_success">Registration is completed! The verification link has been sent by Email</string>
+    <string name="share">Share</string>
+    <string name="text">Text</string>
+    <string name="title">Title</string>
+    <string name="title_error">The title cannot be empty</string>
+</resources>
