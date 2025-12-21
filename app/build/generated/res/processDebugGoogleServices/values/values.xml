@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">709946062769</string>
+    <string name="google_api_key" translatable="false">AIzaSyALL1Fjy9yRX4bQqTbuWwpbJyRrCbTNCOw</string>
+    <string name="google_app_id" translatable="false">1:709946062769:android:7fe5132ff070dc97d0af90</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyALL1Fjy9yRX4bQqTbuWwpbJyRrCbTNCOw</string>
+    <string name="google_storage_bucket" translatable="false">dashnotes-6441a.appspot.com</string>
+    <string name="project_id" translatable="false">dashnotes-6441a</string>
+</resources>
