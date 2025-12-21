@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/layout_activity_splash.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_green_gradient.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\green_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_blue_gradient.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\blue_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_baseline_done_24.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\baseline_done_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_rounded_corner.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\rounded_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_orange_gradient.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\orange_gradient.xml"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/drawable_done.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/drawable/done.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/layout_activity_main.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_note_style.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\note_style.xml"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/layout_activity_login.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_login.png.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\login.png"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_appimg.png.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\appimg.png"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/drawable_add.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/drawable/add.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_signup.png.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\signup.png"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/drawable_menu.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/drawable/menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_sign_up.png.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\sign_up.png"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_red_gradient.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\red_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_pink_gradient.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\pink_gradient.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/layout_recycler_note_item.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/layout/recycler_note_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\menu_popup_menu.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\layout_recycler_note_item.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\layout\\recycler_note_item.xml"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/layout_activity_register.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dashnotes.app-debug-41:/layout_activity_note_details.xml.flat",
+        "source": "com.example.dashnotes.app-main-43:/layout/activity_note_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\drawable_baseline_menu_24.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\drawable\\baseline_menu_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-debug-41:\\layout_activity_note_details.xml.flat",
+        "source": "C:\\Users\\danya\\.gradle\\daemon\\8.6\\com.example.dashnotes.app-main-43:\\layout\\activity_note_details.xml"
+    }
+]
