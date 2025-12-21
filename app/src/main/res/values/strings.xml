@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DashNotes</string>
+    <string name="reg">Регистрация</string>
+    <string name="email">Email</string>
+    <string name="pass">Пароль</string>
+    <string name="conf_pass">Повторите пароль</string>
+    <string name="create_acc">Создать аккаунт</string>
+    <string name="have_acc">Уже есть аккаунт?</string>
+    <string name="login">Войти</string>
+    <string name="hello">Приветствуем!</string>
+    <string name="no_acc">Еще нет аккаунта?</string>
+    <string name="create">Создать</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="title">Заголовок</string>
+    <string name="text">Текст</string>
+    <string name="delete_note">Удалить заметку</string>
+    <string name="hello_text">Приложение для ваших заметок</string>
+    <string name="date">Дата</string>
+    <string name="not_confirmed_email">Email не был подтвержден! Проверьте почту</string>
+    <string name="invalid_email">Некорректный Email</string>
+    <string name="invalid_pass">Длина пароля должна быть не менее 8 символов</string>
+    <string name="invalid_confirm_pass">Пароли не совпадают</string>
+    <string name="reg_success">Регистрация пройдена! Ссылка для верификации оправлена на Email</string>
+    <string name="exit">Выйти</string>
+    <string name="share">Поделиться</string>
+    <string name="del">Удалить</string>
+    <string name="del_success">Заметка удалена!</string>
+    <string name="del_error">Ошибка при удалении заметки!</string>
+    <string name="edit">Редактирование</string>
+    <string name="title_error">Заголовок не может быть пустым</string>
+    <string name="create_success">Заметка создана!</string>
+    <string name="create_error">Ошибка при создании заметки!</string>
+</resources>

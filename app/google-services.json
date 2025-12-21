@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709946062769",
+    "project_id": "dashnotes-6441a",
+    "storage_bucket": "dashnotes-6441a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709946062769:android:7fe5132ff070dc97d0af90",
+        "android_client_info": {
+          "package_name": "com.example.dashnotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALL1Fjy9yRX4bQqTbuWwpbJyRrCbTNCOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
