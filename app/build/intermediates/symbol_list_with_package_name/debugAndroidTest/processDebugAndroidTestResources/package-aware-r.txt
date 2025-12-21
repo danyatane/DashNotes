@@ -1,0 +1,3 @@
+com.example.dashnotes.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

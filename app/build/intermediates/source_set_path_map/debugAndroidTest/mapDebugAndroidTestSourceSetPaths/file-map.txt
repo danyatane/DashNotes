@@ -1,0 +1,6 @@
+com.example.dashnotes.test.app-annotation-experimental-1.3.0-0 C:\Users\danya\.gradle\caches\transforms-4\718a902abe8a757e2d9f7532b7350ffc\transformed\annotation-experimental-1.3.0\res
+com.example.dashnotes.test.app-core-1.5.0-1 C:\Users\danya\.gradle\caches\transforms-4\872cb995105161601960e33bc165b31f\transformed\core-1.5.0\res
+com.example.dashnotes.test.app-androidTest-2 C:\Users\danya\AndroidStudioProjects\DashNotes\app\build\generated\res\resValues\androidTest\debug
+com.example.dashnotes.test.app-mergeDebugAndroidTestResources-3 C:\Users\danya\AndroidStudioProjects\DashNotes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.dashnotes.test.app-mergeDebugAndroidTestResources-4 C:\Users\danya\AndroidStudioProjects\DashNotes\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.dashnotes.test.app-debugAndroidTest-5 C:\Users\danya\AndroidStudioProjects\DashNotes\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
